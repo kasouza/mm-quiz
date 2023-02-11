@@ -7199,7 +7199,6 @@
                     },
                 ];
 
-            i.splice(0, 7)
             return (0, a.jsxs)("div", {
                 className: "flex flex-col items-center gap-8 bg-gray-200 w-full min-h-screen leading-relaxed",
                 children: [
