@@ -7160,7 +7160,7 @@
                             new d("brown", "Ler o livro do momento"),
                             new d("blue", "Assistir o jogo de futebol que estiver passando"),
                             new d("orange", "Revisar minha planilha de gastos"),
-                            new d("purple", "Encontar meus amigos"),
+                            new d("purple", "Encontrar meus amigos"),
                         ],
                     },
                     {
